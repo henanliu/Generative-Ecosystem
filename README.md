@@ -1,5 +1,5 @@
 # Generative-Ecosystem
-Developed with Longtai Liao back in 2018.
+Developed with Longtai Liao in 2018.
 
 It is a python script run within Grasshopper for Rhino 3D.
 
